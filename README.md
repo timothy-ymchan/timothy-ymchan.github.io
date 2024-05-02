@@ -1,3 +1,3 @@
 # Personal Webpage
 
-The page is here https://timothy-ymchan.github.io/
+The github repository for my personal webpage. 
